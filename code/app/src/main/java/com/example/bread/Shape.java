@@ -3,9 +3,10 @@ package com.example.bread;
 public abstract class Shape {
     private int x;
     private int y;
-    String color2 = "crimson";
+    String color2 = "brown";
     String color3 = "cyan";
     String color = "magenta";
+    String color4 = "maroon";
 
     public Shape(int x, int y) {
         this.x = x;
