@@ -3,7 +3,7 @@ package com.example.bread;
 public abstract class Shape {
     private int x;
     private int y;
-    String color = "crimson";
+    String color2 = "crimson";
 
     public Shape(int x, int y) {
         this.x = x;
